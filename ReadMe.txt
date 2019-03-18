@@ -17,3 +17,5 @@ You can run the following command from its shell:
 For more help see the Apache Camel documentation
 
     http://camel.apache.org/
+
+Follow document at karaf-fuse/src/doc/Red_Hat_Fuse-7.2-Tooling_Tutorials-en-US.pdf
